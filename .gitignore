@@ -1,0 +1,29 @@
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Data
+*.fastq
+*.fastq.gz
+*.bam
+*.sam
+biobloomrxiv_source_data/
+output_data/
+
+# Outputs / figures
+*.pdf
+*.png
+*.svg
+
+# OS cruft
+.DS_Store
+Thumbs.db
